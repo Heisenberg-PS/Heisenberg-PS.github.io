@@ -20,15 +20,15 @@ Work experience
 
 None
 
-#* Spring 2024: Academic Pages Collaborator
-#  * Github University
-#  * Duties includes: Updates and improvements to template
-#  * Supervisor: The Users
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
   
 Skills
 ======
@@ -51,12 +51,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-#Service and leadership
-#======
+Service and leadership
+======
 * Currently signed in to 43 different slack teams
