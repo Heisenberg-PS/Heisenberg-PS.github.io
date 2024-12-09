@@ -1,7 +1,6 @@
 ---
 title: "Sequencing and Scheduling Appointments with Weighted Completion Time Minimization and Waiting Time Tolerance"
 collection: publications
-category: manuscripts
 permalink: /publication/2024-12-07-paper-number-1
 excerpt: 'This paper investigates a sequencing and scheduling problem incorporating waiting time tolerance.'
 date: 2024-12-07
