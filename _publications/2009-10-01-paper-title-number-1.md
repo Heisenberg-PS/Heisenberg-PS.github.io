@@ -3,7 +3,7 @@ title: "Sequencing and Scheduling Appointments with Weighted Completion Time Min
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-07-paper-number-1
-# excerpt: 'xxxx'
+<!-- excerpt: 'This paper investigates a sequencing and scheduling problem incorporating waiting time tolerance.'-->
 date: 2024-12-07
 venue: 'Computers & Operations Research'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
