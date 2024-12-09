@@ -13,3 +13,8 @@ I'm a second year undergraduate student from [School of Business](https://bs.csu
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Participate in a project or competition
+
+
+## Honors & Awards
