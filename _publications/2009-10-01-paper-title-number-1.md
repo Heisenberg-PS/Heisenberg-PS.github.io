@@ -6,7 +6,6 @@ permalink: /publication/2024-12-07-paper-number-1
 excerpt: 'This paper investigates a sequencing and scheduling problem incorporating waiting time tolerance.'
 date: 2024-12-07
 venue: 'Computers & Operations Research'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Wait to be added'
 ---
@@ -19,6 +18,8 @@ appointment scheduling, sequencing decision, 2-approximation, weighted completio
 ## Note
 
 _**This paper is my first paper, happy!**_
+
+[Download paper here](https://)
 
 <!--
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.-->
