@@ -5,15 +5,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
-title                    : "Liu, Junjie(Chunkit Lau, 刘俊杰)" # "Your Name / Site Title"
+title                    : "Tiga's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Junjie Liu (刘俊杰)" # "Your Name"
-description              : &description "personal description"
-url                      : "https://chunkitlau.github.io" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ultraman Tiga"
+description              : &description "Master in CSU"
+url                      : https://Heisenberg-PS.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chunkitlau/chunkitlau.github.io" # "academicpages/academicpages.github.io"
+repository               : "Heisenberg-PS/Heisenberg-PS.github.io"
+
+
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,35 +81,51 @@ analytics:
 
 
 # Site Author
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name             : Junjie Liu # "Your Sidebar Name"
-  avatar           : "profile.jpg"
-  bio              : PhD student, CSE, HKUST # "Your biography for the left-hand sidebar"
-  location         : "Hong Kong SAR" # "Location"
-  employer         : 
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=pSkfLwgAAAAJ"
-  email            : "junjie.liu@connect.ust.hk"
-  researchgate     : "https://www.researchgate.net/profile/Junjie-Liu-5" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  # Biographic information
+  avatar           : "Tiga.png"
+  name             : "Ultraman Tiga"
+  pronouns         : # example: "she/her"  
+  bio              : "Trying to explore the world"
+  location         : "Changsha, China"
+  employer         : # "Central South University"
+  uri              : # URL
+  email            : "MLPS2001@163.com" 
+
+  
+author:
+  name             : "Ultraman Tiga" # "Your Sidebar Name"
+  avatar           : "Tiga.png"
+  bio              : "Trying to explore the world"
+  location         : "Changsha, China" # "Location"
+  employer         : # "Central South University"
+  pubmed           : # URL
+  googlescholar    : # URL
+  email            : "MLPS2001@163.com"
+  researchgate     : # URL # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : # URL
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chunkitlau" # "academicpages"
+  github           : "Heisenberg-PS" # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9413-0444" # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-8048-0961" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/profiles/76561198982518703/"
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
@@ -115,7 +133,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  kaggle           : # Username
 
 # Reading Files
 include:
