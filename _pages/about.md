@@ -14,6 +14,13 @@ I'm a second year undergraduate student from [School of Business](https://bs.csu
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Education
+======
+<!-- * Ph.D Not yet -->
+* M.S. in Management Science and Engineering, Central South University, 2023.09-
+* B.S. Data Science and BUsiness Analysis, Central South University, 2019.09-2023.06
+
+
 ## Participate in a project or competition
 
 
