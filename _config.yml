@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "PS's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ultraman Tiga"
+description              : &description "Master in CSU"
 url                      : https://Heisenberg-PS.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Heisenberg-PS/Heisenberg-PS.github.io"
@@ -296,22 +296,20 @@ permalink: /:categories/:title/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
+
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
   - jekyll-redirect-from
-  - jemoji
-
-# Mimic GitHub Pages with --safe
+# mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-feed
   - jemoji
 
 
