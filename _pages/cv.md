@@ -7,11 +7,13 @@ redirect_from:
   - /resume
 ---
 
+<!--
 {% include base_path %}
+-->
 
 Education
 ======
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- * Ph.D Not yet -->
 * M.S. in Management Science and Engineering, Central South University, 2023.09-
 * B.S. Data Science and BUsiness Analysis, Central South University, 2019.09-2023.06
 
@@ -20,6 +22,7 @@ Work experience
 
 None
 
+<!--
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
@@ -29,7 +32,8 @@ None
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+-->
+
 Skills
 ======
 * Skill 1
@@ -39,6 +43,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -58,5 +63,7 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
+
 ======
 * Currently signed in to 43 different slack teams
+-->
