@@ -5,7 +5,7 @@ permalink: /publication/2024-12-07-paper-number-1
 excerpt: 'This paper investigates a sequencing and scheduling problem incorporating waiting time tolerance.'
 date: 2024-12-07
 venue: 'Computers & Operations Research'
-paperurl: 'http://www.jos.org.cn/jos/article/pdf/6760'
+paperurl: 
 citation: 'Wait to be added'
 ---
 ## Abstract
