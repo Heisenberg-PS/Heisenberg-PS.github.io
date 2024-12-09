@@ -12,8 +12,8 @@ I'm a second year undergraduate student from [School of Business](https://bs.csu
 
 ## Education
 <!-- * Ph.D Not yet -->
-* M.S. in Management Science and Engineering, Central South University, 2023.09-
-* B.S. Data Science and BUsiness Analysis, Central South University, 2019.09-2023.06
+* M.S. in Management Science and Engineering, Central South University, 2023.09 - Present
+* B.S. Data Science and BUsiness Analysis, Central South University, 2019.09 - 2023.06
 
 
 ## Publications
@@ -23,6 +23,12 @@ I'm a second year undergraduate student from [School of Business](https://bs.csu
 
 
 ## Participate in a project or competition
-
+* Operations Research Society of China Student Member, November, 2024 - Present
+* "Huawei Cup" Chinese postgraduate mathematical Contest in Modeling, December, 2023
+* Mathematical Contest In Modeling Memorable Meritorious Winner, February, 2022
+* Contemporary Undergraduate Mathematical Contest in Modeling Second Prize, December, 2021
+* Hunan University Students Engineering Practice and Innovation Ability Competition ThirdPrize, June, 2021
 
 ## Honors & Awards
+* Outstanding Graduate of Central South University, 2023
+* Excellent Student Cadre of Central South University, 2022
