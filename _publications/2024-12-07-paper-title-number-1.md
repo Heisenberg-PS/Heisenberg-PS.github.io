@@ -18,6 +18,6 @@ appointment scheduling, sequencing decision, 2-approximation, weighted completio
 
 _**This paper is my first paper, happy!**_
 
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0305054824004209)
+[Download website](https://www.sciencedirect.com/science/article/abs/pii/S0305054824004209)
 
   
