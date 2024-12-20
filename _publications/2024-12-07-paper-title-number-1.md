@@ -5,7 +5,7 @@ permalink: /publication/2024-12-07-paper-number-1
 excerpt: 'This paper investigates a sequencing and scheduling problem incorporating waiting time tolerance.'
 date: 2024-12-07
 venue: 'Computers & Operations Research'
-citation: 'Wait to be added'
+citation: 'Zhou S, Pang S, Zhao Y, et al. Sequencing and scheduling appointments with weighted completion time minimization and waiting time tolerance[J]. Computers & Operations Research, 2024: 106948.'
 # paperurl: 
 ---
 ## Abstract
@@ -18,6 +18,6 @@ appointment scheduling, sequencing decision, 2-approximation, weighted completio
 
 _**This paper is my first paper, happy!**_
 
-[Download paper here](https://)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0305054824004209)
 
   
